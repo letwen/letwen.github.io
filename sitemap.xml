@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://letwen.github.io/about/index.html</loc>
+    
+    <lastmod>2019-04-24T09:53:49.091Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://letwen.github.io/404.html</loc>
     
     <lastmod>2019-04-24T09:20:03.332Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://letwen.github.io/search/index.html</loc>
     
     <lastmod>2019-04-24T09:18:58.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://letwen.github.io/about/index.html</loc>
-    
-    <lastmod>2019-04-24T09:18:12.970Z</lastmod>
     
   </url>
   
